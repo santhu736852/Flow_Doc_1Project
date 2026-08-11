@@ -4,7 +4,7 @@
   <value name="enabled">yes</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
-  <value name="version">1.0</value>
+  <value name="version">1.0.1</value>
   <value name="name">Flow_Doc_1Project</value>
   <null name="startup_services"/>
   <null name="shutdown_services"/>
@@ -14,12 +14,12 @@
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">11-08-2026 09:34:17 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-08-11T09:34:54.411648085Z</value>
+  <value name="lastUpdated">2026-08-11T09:36:32.783657366Z</value>
   <value name="creator">Santhosh K</value>
 </Values>
